@@ -1,0 +1,26 @@
+{
+	"name": "HelloHandlebars",
+	"preferGlobal": "false",
+	"version": "0.0.0",
+	"author": "Rutgers Virtual Worlds",
+	"description": "Example for Handlebars",
+	"contributors": [
+		{
+			"name": "Ryan Ostrager",
+			"email": "rostrage@docs.rutgers.edu"
+		}
+	],
+	"dependencies" : {
+		"express" : "*",
+		"handlebars" : "*",
+		"mongojs" : "*",
+		"consolidate" : "*"
+	},
+	"analyze" : false,
+	"devDependencies" : [
+	],
+	"license" : "MIT",
+	"engines" : {
+		"node": ">=0.8"
+	}	
+}
